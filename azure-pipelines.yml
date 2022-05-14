@@ -8,7 +8,7 @@ trigger:
 - master
 
 pool:
-  chetanpc
+  Azure Pipelines
 
 steps:
 - task: Maven@3
